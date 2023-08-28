@@ -44,7 +44,7 @@ When the "Change Time" button is clicked, the changeBackgroundAndTextColors() fu
 # Detailed Time Zones Acces
 
 I added a button in the upper-left corner that simulates what users can see when the landing page's appearance changes during specific time periods:
-# <li>05:00 ás 12:00</li>
+# <li>05:00 to 12:00</li>
 <img src="https://github.com/printflucasguanabara/landing-page-carapp/assets/110312548/0ba505c1-033a-4e49-8b9f-3ac01f4dd011" width="700" height="400" />
 
 
