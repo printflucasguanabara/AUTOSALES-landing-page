@@ -57,7 +57,7 @@ I added a button in the upper-left corner that simulates what users can see when
 
 <img src="https://github.com/printflucasguanabara/landing-page-carapp/assets/110312548/e14e2279-b0e5-4197-a28a-2b0eb991183e" width="700" height="400" />
 
-## Despite being a simple landing page, I learned from some mistakes and put my knowledge into practice.
+## Despite being a simple landing page, I learned from some mistakes and put my knowledge in practice.
  Mesmo sendo um Landing Page simples, consegui aprender com alguns erros e coloquei em prática meus conhecimentos
 
 
