@@ -21,8 +21,7 @@ This was the challenge where I struggled the most with JavaScript, even though i
 
 ## Layout
 I started by developing the wireframe in FIGMA.
-
-<img src="https://github.com/printflucasguanabara/landing-page-carapp/assets/110312548/b52d9049-6b0f-4107-a940-06cc63728fde" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="500" height="400" />
+<img src= "https://github.com/printflucasguanabara/AUTOSALES-landing-page/assets/110312548/a13f9e09-bc3a-461e-b79a-6c0ff7082e8a" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="500" height="400" />
 <br>
 I was going to add the colors and create a detailed layout, but I decided to go to the code with HTML and CSS and detail the colors on the go.
 
@@ -45,24 +44,20 @@ When the "Change Time" button is clicked, the changeBackgroundAndTextColors() fu
 
 I added a button in the upper-left corner that simulates what users can see when the landing page's appearance changes during specific time periods:
 # <li>05:00 to 12:00</li>
-<img src="https://github.com/printflucasguanabara/landing-page-carapp/assets/110312548/0ba505c1-033a-4e49-8b9f-3ac01f4dd011" width="700" height="400" />
+<img src="https://github.com/printflucasguanabara/AUTOSALES-landing-page/assets/110312548/abc85ed2-fdb3-4ffd-a8bc-6da2dec8f0ba" width="700" height="400" />
 
 
 # <li>12:00 to 18:00</li>
 
-<img src="https://github.com/printflucasguanabara/landing-page-carapp/assets/110312548/8cc06c02-c669-47eb-93fd-a74254d68340" width="700" height="400" />
+<img src="https://github.com/printflucasguanabara/AUTOSALES-landing-page/assets/110312548/9afa7486-aa61-4465-9eb5-508ea2972ca9" width="700" height="400" />
 
 
 # <li>18:00 to 05:00</li>
 
-<img src="https://github.com/printflucasguanabara/landing-page-carapp/assets/110312548/e14e2279-b0e5-4197-a28a-2b0eb991183e" width="700" height="400" />
+<img src="https://github.com/printflucasguanabara/AUTOSALES-landing-page/assets/110312548/c747d168-b6fe-493f-9f49-7d974406b0ee" width="700" height="400" />
 
 ## Despite being a simple landing page, I learned from some mistakes and put my knowledge in practice.
  Mesmo sendo um Landing Page simples, consegui aprender com alguns erros e coloquei em prática meus conhecimentos
-
-
-
-
 
 
 
